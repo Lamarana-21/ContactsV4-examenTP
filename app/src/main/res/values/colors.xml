@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary palette -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="red_error">#B00020</color>
+
+    <!-- Couleurs sélectionnables pour les préférences (lisibles en mode clair et sombre) -->
+    <color name="pref_color_black">#121212</color>
+    <color name="pref_color_blue">#1976D2</color>
+    <color name="pref_color_green">#388E3C</color>
+    <color name="pref_color_red">#D32F2F</color>
+    <color name="pref_color_purple">#7B1FA2</color>
+</resources>

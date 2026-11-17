@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Taille de la police -->
+    <string-array name="pref_taille_police_entries">
+        <item>Petite (14 sp)</item>
+        <item>Moyenne (16 sp)</item>
+        <item>Grande (20 sp)</item>
+    </string-array>
+    <string-array name="pref_taille_police_values">
+        <item>14</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+
+    <!-- Couleur préférée (Valeurs Hexadécimales #RRGGBB) -->
+    <string-array name="pref_couleur_preferee_entries">
+        <item>Noir</item>
+        <item>Bleu</item>
+        <item>Vert</item>
+        <item>Rouge</item>
+        <item>Violet</item>
+    </string-array>
+    <string-array name="pref_couleur_preferee_values">
+        <item>#121212</item>
+        <item>#1976D2</item>
+        <item>#388E3C</item>
+        <item>#D32F2F</item>
+        <item>#7B1FA2</item>
+    </string-array>
+</resources>

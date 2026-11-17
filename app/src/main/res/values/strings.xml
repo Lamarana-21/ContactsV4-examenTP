@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Gestion des Contacts V4</string>
+    <string name="title_liste_contacts">Liste des Contacts</string>
+    <string name="title_nouveau_contact">Nouveau Contact</string>
+    <string name="title_detail_contact">Détail du Contact</string>
+    <string name="title_carte_contact">Localisation du Contact</string>
+    <string name="title_parametres">Paramètres</string>
+
+    <!-- Menu -->
+    <string name="action_settings">Paramètres</string>
+
+    <!-- Liste -->
+    <string name="search_hint">Rechercher par nom, prénom, tél…</string>
+    <string name="no_contacts">Aucun contact trouvé</string>
+    <string name="action_call">Appeler</string>
+    <string name="add_contact">Ajouter un contact</string>
+
+    <!-- Détail -->
+    <string name="label_nom">Nom *</string>
+    <string name="label_prenom">Prénom *</string>
+    <string name="label_telephone">Téléphone *</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_latitude">Latitude (-90 à 90)</string>
+    <string name="label_longitude">Longitude (-180 à 180)</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="btn_gallery">Galerie</string>
+    <string name="btn_camera">Caméra</string>
+    <string name="btn_view_map">Voir sur la carte</string>
+    <string name="btn_delete">Supprimer</string>
+    <string name="btn_send_email">Envoyer e-mail</string>
+
+    <!-- Erreurs et Messages -->
+    <string name="error_required_fields">Le nom, le prénom et le téléphone sont obligatoires.</string>
+    <string name="error_invalid_coordinates">Coordonnées GPS invalides. La latitude doit être entre -90 et 90, et la longitude entre -180 et 180.</string>
+    <string name="no_gps_info">Aucune coordonnée GPS enregistrée pour ce contact.</string>
+    <string name="delete_confirm_title">Suppression</string>
+    <string name="delete_confirm_message">Voulez-vous vraiment supprimer ce contact ?</string>
+    <string name="confirm_yes">Oui</string>
+    <string name="confirm_no">Non</string>
+    <string name="no_email_app">Aucune application e-mail trouvée.</string>
+    <string name="no_phone_app">Aucune application d\'appel trouvée.</string>
+    <string name="no_camera_app">Aucune application caméra disponible.</string>
+
+    <!-- Préférences -->
+    <string name="pref_category_display">Affichage de la liste et du détail</string>
+    <string name="pref_taille_police_title">Taille de la police</string>
+    <string name="pref_couleur_preferee_title">Couleur du nom/prénom</string>
+    <string name="pref_category_actions">Actions rapides</string>
+    <string name="pref_appel_depuis_liste_title">Bouton d\'appel dans la liste</string>
+    <string name="pref_appel_depuis_liste_summary">Afficher un bouton pour passer un appel direct depuis chaque ligne de la liste</string>
+</resources>
